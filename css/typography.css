@@ -13,6 +13,30 @@ a {
   font-family: 'Prata', serif;
 }
 
+.shadow {
+  text-shadow: 2px 2px 5px #000;
+}
+
+.dark-blue {
+  color: #17172f;
+}
+
+.dark-pink {
+  color: #88376d;
+}
+
+.orange-red {
+  color: #c6615c;
+}
+
+.orange {
+  color: #feb253;
+}
+
+.beige {
+  color: #e8c47b;
+}
+
 sub, sup {
   font-size: 75%;
   line-height: 1px;

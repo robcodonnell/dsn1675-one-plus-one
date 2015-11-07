@@ -1,9 +1,22 @@
+/* Colors used throughout:
+#17172f; - dark blue
+#88376d; - dark pink
+#c6615c; - orange-red
+#feb253; - orange
+#e8c47b; - beige
+*/
+
 .nav {
   text-align: center;
 }
 
+.margin12 {
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
 header {
-  background-color: grey;
+  background-color: #c6615c;
 }
 
 .panov2 {
