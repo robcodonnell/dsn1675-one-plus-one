@@ -2,10 +2,15 @@
 html {
   font-size: 100%;
   line-height: 1.3;
+  font-family: 'Poppins', sans-serif;
 }
 
 a {
   background-color: transparent;
+}
+
+.brand {
+  font-family: 'Prata', serif;
 }
 
 sub, sup {
@@ -418,7 +423,7 @@ td, th, fieldset {
 
 }
 
-@media only screen and (min-width: 90em) {
+@media only screen and (min-width: 86em) {
 
 html {
   font-size: 120%;
