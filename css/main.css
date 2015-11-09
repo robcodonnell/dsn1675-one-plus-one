@@ -6,6 +6,26 @@
 #e8c47b; - beige
 */
 
+.blueb {
+  background-color: #17172f;
+}
+
+.pinkb {
+  background-color: #88376d;
+}
+
+.oredb {
+  background-color: #c6615c;
+}
+
+.orangeb {
+  background-color: #feb253;
+}
+
+.beigeb {
+  background-color: #e8c47b;
+}
+
 .nav {
   text-align: center;
 }

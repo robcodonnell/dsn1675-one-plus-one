@@ -1,6 +1,6 @@
-main {
-  margin-left: 0.65em;
-  margin-right: 0.65em;
+section {
+  padding-left: 0.65em;
+  padding-right: 0.65em;
 }
 
 .grid {
@@ -102,9 +102,9 @@ main {
 
 @media only screen and (min-width: 48em) {
 
-main {
-  margin-left: 1.4em;
-  margin-right: 1.4em;
+section {
+  padding-left: 1.4em;
+  padding-right: 1.4em;
 }
 
 .unit-m-hidden {
@@ -151,9 +151,9 @@ main {
 
 @media only screen and (min-width: 86em) {
 
-main {
-  margin-left: 6em;
-  margin-right: 6em;
+section {
+  padding-left: 6em;
+  padding-right: 6em;
 }
 
 .unit-l-hidden {
