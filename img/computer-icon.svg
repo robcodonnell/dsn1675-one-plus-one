@@ -5,24 +5,23 @@
 	 width="166.5px" height="166.5px" viewBox="-312 223.5 166.5 166.5" style="enable-background:new -312 223.5 166.5 166.5;"
 	 xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#FFFFFF;stroke-width:2.0101;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#C6615C;stroke-width:2;stroke-miterlimit:10;}
 </style>
 <g id="Layer_1_1_">
 </g>
 <g id="_x34__x2F_8_x2F_12_Content">
 	<g id="XMLID_311_">
-		<path id="XMLID_962_" class="st0" d="M-165.2,348.4h-127.1c-5.8,0-10.5-4.7-10.5-10.5V259c0-5.8,4.7-10.5,10.5-10.5h127.1
-			c5.8,0,10.5,4.7,10.5,10.5v78.9C-154.7,343.7-159.4,348.4-165.2,348.4z"/>
-		<rect id="XMLID_963_" x="-257.6" y="348.4" class="st0" width="57.7" height="16.7"/>
-		<line id="XMLID_964_" class="st0" x1="-275.5" y1="365.1" x2="-182" y2="365.1"/>
+		<path id="XMLID_962_" class="st0" d="M-165.2,348.3h-127.1c-5.8,0-10.5-4.7-10.5-10.5V259c0-5.8,4.7-10.5,10.5-10.5h127.1
+			c5.8,0,10.5,4.7,10.5,10.5v78.9C-154.7,343.7-159.4,348.3-165.2,348.3z"/>
+		<rect id="XMLID_963_" x="-257.6" y="348.3" class="st0" width="57.7" height="16.7"/>
+		<line id="XMLID_964_" class="st0" x1="-275.5" y1="365" x2="-182" y2="365"/>
 		<line id="XMLID_966_" class="st0" x1="-302.8" y1="331.7" x2="-154.7" y2="331.7"/>
-		<circle id="XMLID_13_" class="st0" cx="-228.7" cy="340.1" r="3.6"/>
+		<circle id="XMLID_13_" class="st0" cx="-228.7" cy="340" r="3.6"/>
 		<rect id="XMLID_79_" x="-296.1" y="255.1" class="st0" width="134.5" height="71.5"/>
-		<line id="XMLID_81_" class="st0" x1="-287.6" y1="315.1" x2="-205.1" y2="315.1"/>
+		<line id="XMLID_81_" class="st0" x1="-287.6" y1="315" x2="-205.1" y2="315"/>
 		<line id="XMLID_82_" class="st0" x1="-287.6" y1="308.5" x2="-172.7" y2="308.5"/>
-		<line id="XMLID_83_" class="st1" x1="-287.6" y1="302.7" x2="-172.7" y2="302.7"/>
-		<rect id="XMLID_84_" x="-287.6" y="265.1" class="st0" width="114.9" height="13.3"/>
+		<line id="XMLID_83_" class="st0" x1="-287.6" y1="302.7" x2="-172.7" y2="302.7"/>
+		<rect id="XMLID_84_" x="-287.6" y="265" class="st0" width="114.9" height="13.3"/>
 	</g>
 	<g id="XMLID_111_">
 	</g>
