@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="176.6px"
-	 height="176.6px" viewBox="0 0 176.6 176.6" style="enable-background:new 0 0 176.6 176.6;" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="176.6px" height="176.6px" viewBox="-307 218.4 176.6 176.6" style="enable-background:new -307 218.4 176.6 176.6;"
+	 xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-width:2.01;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2.01;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
 </style>
-<g id="Layer_1">
+<g id="Layer_1_1_">
 </g>
 <g id="_x34__x2F_8_x2F_12_Content">
 	<g id="XMLID_1_">
-		<polygon id="XMLID_51_" class="st0" points="170.6,75.1 170.6,148.9 58.9,148.9 58.9,100.7 117.7,100.7 117.7,75.1 		"/>
-		<line id="XMLID_46_" class="st0" x1="114.8" y1="112" x2="97.6" y2="100.7"/>
-		<line id="XMLID_99_" class="st0" x1="170.6" y1="75.1" x2="114.8" y2="112"/>
-		<polygon id="XMLID_53_" class="st0" points="117.7,26.9 117.7,100.7 6,100.7 6,26.9 61.8,63.8 		"/>
-		<polygon id="XMLID_48_" class="st0" points="117.7,26.9 61.8,63.8 6,26.9 		"/>
+		<polygon id="XMLID_51_" class="st0" points="-136.4,293.5 -136.4,367.3 -248.1,367.3 -248.1,319.1 -189.3,319.1 -189.3,293.5 		
+			"/>
+		<line id="XMLID_46_" class="st0" x1="-192.2" y1="330.4" x2="-209.4" y2="319.1"/>
+		<line id="XMLID_99_" class="st0" x1="-136.4" y1="293.5" x2="-192.2" y2="330.4"/>
+		<polygon id="XMLID_53_" class="st0" points="-189.3,245.3 -189.3,319.1 -301,319.1 -301,245.3 -245.2,282.2 		"/>
+		<polygon id="XMLID_48_" class="st0" points="-189.3,245.3 -245.2,282.2 -301,245.3 		"/>
 	</g>
 	<g id="XMLID_2_">
 	</g>

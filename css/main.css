@@ -49,6 +49,16 @@ header {
   display: none;
 }
 
+.photov2 {
+  visibility: collapse;
+  display: none;
+}
+
+.photov3 {
+  visibility: collapse;
+  display: none;
+}
+
 @media only screen and (min-width: 48em) {
   .nav {
     float: right;
@@ -63,6 +73,16 @@ header {
     visibility: visible;
     display: block;
   }
+
+  .photov1 {
+    visibility: collapse;
+    display: none;
+  }
+
+  .photov2 {
+    visibility: visible;
+    display: block;
+  }
 }
 
 @media only screen and (min-width: 86em) {
@@ -72,6 +92,16 @@ header {
   }
 
   .panov3 {
+    visibility: visible;
+    display: block;
+  }
+
+  .photov2 {
+    visibility: collapse;
+    display: none;
+  }
+
+  .photov3 {
     visibility: visible;
     display: block;
   }
