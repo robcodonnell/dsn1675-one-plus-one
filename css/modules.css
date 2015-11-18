@@ -37,7 +37,11 @@ template {
 }
 
 .rounded {
-  border-radius: 10px;
+  border-radius: 30px;
+}
+
+.border-red {
+  border: 3px solid #c72b41;
 }
 
 img {
@@ -257,6 +261,8 @@ svg {
 
 .pin-banner {
   bottom: 2em;
+  left: 0;
+  right: 0;
 }
 
 .pin-top-left, .pin-tl {
@@ -294,12 +300,13 @@ svg {
 .link-box {
   display: block;
   text-decoration: none;
+  color: #fff;
 }
 
 .btn {
   display: inline-block;
-  padding: 0.375em 0.75em 0.42em;
-  background-color: #333;
+  padding: 0.75em 1em 0.84em;
+  background-color: #c72b41;
   border-radius: 8px;
   border: 0;
   color: #fff;
@@ -307,7 +314,7 @@ svg {
 }
 
 .btn:hover {
-  background-color: #000;
+  background-color: #800834;
   color: #fff;
 }
 

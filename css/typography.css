@@ -21,24 +21,16 @@ a {
   color: #fff;
 }
 
-.dark-blue {
-  color: #17172f;
+.purple {
+  color: #4f054f;
 }
 
-.dark-pink {
-  color: #88376d;
+.blue {
+  color: #0379db;
 }
 
-.orange-red {
-  color: #c6615c;
-}
-
-.orange {
-  color: #feb253;
-}
-
-.beige {
-  color: #e8c47b;
+.red {
+  color: #c72b41;
 }
 
 sub, sup {
