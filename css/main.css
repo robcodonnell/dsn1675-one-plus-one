@@ -1,11 +1,31 @@
 /* Colors used throughout:
 #c6615c; - orange-red
 #d1d3d4; - 20% black
+#58595b; - 80% black
 #c72b41; - red
+#800834; - dark red
 */
+
+header {
+  overflow: hidden;
+}
 
 .whiteb {
   background-color: #fff;
+}
+
+.signupbtn {
+  text-align: center;
+  display: block;
+  margin: 0em 2em;
+  background-color: #c72b41;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 20px;
+}
+
+.signupbtn:hover {
+  background-color: #800834;
 }
 
 .redb {
@@ -18,6 +38,10 @@
 
 .light-greyb {
   background-color: #d1d3d4;
+}
+
+.dark-greyb {
+  background-color: #58595b;
 }
 
 .nav {
@@ -68,6 +92,12 @@
     float: right;
   }
 
+  .signupbtn {
+    text-align: center;
+    display: block;
+    margin: 0em 6em;
+  }
+
   .panov1 {
     visibility: collapse;
     display: none;
@@ -90,6 +120,13 @@
 }
 
 @media only screen and (min-width: 86em) {
+
+  .signupbtn {
+    text-align: center;
+    display: block;
+    margin: 0em 10em;
+  }
+
   .panov2 {
     visibility: collapse;
     display: none;
