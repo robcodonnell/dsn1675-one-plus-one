@@ -16,18 +16,23 @@
 
 <body>
 
-  <header class="redb">
+  <ul class="skip-links">
+    <li><a href="#main">Jump to main content</a></li>
+    <li><a href="#nav">Jump to navigation</a></li>
+  </ul>
+
+  <header class="redb" role="banner">
 
     <div class="grid grid-middle">
 
       <div class="unit s-1 m-1-3 l-1-3">
         <a href="index.html">
-        <h1 class="brand push-0"><img class="img-flex" src="img/logo.svg" alt="one plus one"></h1>
+        <h1 class="brand push-0 masthead"><img class="img-flex" src="img/logo.svg" alt="one plus one"></h1>
       </a>
 
       </div>
 
-      <nav class="unit s-1 m-2-3 l-2-3">
+      <nav class="unit s-1 m-2-3 l-2-3" id="nav" role="navigation">
         <ul class="list-group list-group--inline nav push-0">
           <li class="links">
             <a class="link-box island milli" href="tour.html">Tour</a>
@@ -59,7 +64,7 @@
   <div class="island absolute pin-banner text-center">
   <h1 class="red shadow peta brand">Weddings made wonderfully simple.</h1>
   <p class="red shadow">A wedding website builder, invitation designer, calendar planner, budget tracker and more, all in one place.</p>
-  <a href="#" class="btn">Sign up now</a>
+  <a href="signup.html" class="btn">Sign up now</a>
   </div>
   </div>
 
@@ -85,7 +90,7 @@
   </div>
   </div>
 
-  <section class="pad-b pad-t light-greyb">
+  <section class="pad-b pad-t light-greyb" id="main" role="main">
 
     <div class="grid pad-t">
 
@@ -164,7 +169,7 @@
     <img class="embed__item" src="img/photov3.jpg" alt="a panoramic shot of a wedding">
   </div>
   <div class="island absolute pin-banner text-center margin12">
-  <h2 class="red brand shadow">Match your plan to your budget.</h2>
+  <h3 class="red brand shadow">Match your plan to your budget.</h3>
   <a href="pricing.html" class="btn">Pick your plan</a>
   </div>
   </div>

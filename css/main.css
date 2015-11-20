@@ -6,6 +6,8 @@
 #800834; - dark red
 */
 
+
+
 header {
   overflow: hidden;
 }
@@ -91,6 +93,10 @@ header {
 @media only screen and (min-width: 48em) {
   .nav {
     float: right;
+  }
+
+  .masthead img {
+    max-height: 56px;
   }
 
   .signupbtn {
