@@ -479,7 +479,7 @@ td, th, fieldset {
 
 }
 
-@media only screen and (min-width: 86em) {
+@media only screen and (min-width: 72em) {
 
 html {
   font-size: 120%;
