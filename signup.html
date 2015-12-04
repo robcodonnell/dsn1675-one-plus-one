@@ -16,6 +16,11 @@
 
 <body>
 
+  <ul class="skip-links">
+    <li><a href="#main">Jump to main content</a></li>
+    <li><a href="#nav">Jump to navigation</a></li>
+  </ul>
+
   <header class="redb">
 
     <div class="grid grid-middle">
@@ -51,6 +56,51 @@
     </div>
 
   </header>
+
+  <form action="https://formspree.io/robe.od@gmail.com" method="post">
+
+    <div>
+      <label for="name">First Name</label>
+      <input id="name" required name="name">
+    </div>
+
+    <div>
+      <label for="lastname">Last Name</label>
+      <input id="lastname" required name="lastname">
+    </div>
+
+    <div>
+      <label for="email">Email</label>
+      <input id="email" type="email" required placeholder="you@yours.com" name="email">
+    </div>
+
+    <div>
+      <label for="password">Password</label>
+      <input id="password" type="text" required name="password">
+    </div>
+
+    <div>
+      <label for="confirm-pass">Confirm password</label>
+      <input id="confirm-pass" type="text" required name="confirm-pass">
+    </div>
+
+    <div>
+      <label for="phone">Phone</label>
+      <input id="phone" type="text" name="phone">
+    </div>
+
+    <div>
+      <label for="card">Credit card #</label>
+      <input id="card" type="text" required name="card">
+    </div>
+
+    <div>
+      <button class="signupbtn" type="submit">Sign up</button>
+    </div>
+
+    <input type="hidden" name="_next" value="https://robcodonnell.github.io/forms-demo/thanks.html">
+
+</form>
 
 
   <footer>
