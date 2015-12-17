@@ -6,10 +6,14 @@
 #800834; - dark red
 */
 
-
+input {
+  display: block;
+}
 
 header {
   overflow: hidden;
+  
+  z-index: 1;
 }
 
 .whiteb {
@@ -26,6 +30,11 @@ header {
   border-radius: 20px;
 }
 
+.wrapper {
+  max-width: 1400px;
+  margin: auto;
+}
+
 .signupbtn:hover {
   background-color: #800834;
 }
@@ -39,7 +48,7 @@ header {
 }
 
 .light-greyb {
-  background-color: #d1d3d4;
+  background-color: #f1f2f2;
 }
 
 .dark-greyb {
