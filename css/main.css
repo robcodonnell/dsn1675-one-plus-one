@@ -6,13 +6,18 @@
 #800834; - dark red
 */
 
+.icon {
+  width: 40%;
+  margin-left: 30%;
+}
+
 input {
   display: block;
 }
 
 header {
   overflow: hidden;
-  
+
   z-index: 1;
 }
 
