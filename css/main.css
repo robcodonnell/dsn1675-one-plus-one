@@ -6,6 +6,13 @@
 #800834; - dark red
 */
 
+
+.plans {
+  max-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .icon {
   width: 40%;
   margin-left: 30%;
@@ -18,8 +25,8 @@ form {
   text-align: left;
 }
 
-label {
-
+footer div {
+  display: inline-block;
 }
 
 input {
@@ -28,7 +35,6 @@ input {
 
 header {
   overflow: hidden;
-
   z-index: 1;
 }
 
